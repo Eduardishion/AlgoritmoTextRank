@@ -1,0 +1,119 @@
+
+H. Redes sociales y web 2.0
+
+
+Web 2.0 y/o redes sociales
+
+HACE YA MÁS DE SIETE AÑOS que el término web 2.0 fue utilizado por primera vez y más de cuatro desde que Tim O’Reilly lo conceptualizara en un artículo ya clásico (O’Reilly, 2005).
+
+Durante todo este tiempo la web 2.0 ha sido uno de los términos de moda en casi todos los ámbitos profesionales y del conocimiento. Esto ha llevado a una abundante producción bibliográfica y a que el tema haya sido tratado desde las más variadas perspectivas. Este uso intensivo del sufijo “2.0” ha permitido disponer de mucha información para afrontar los cambios que se están produciendo en la comunicación web, pero también a encontrarnos con fuertes críticas hacia estos planteamientos.
+
+Estas críticas han propiciado que algunos autores prefieran el adjetivo “social” a “2.0”. Frecuentemente en las publicaciones profesionales o de divulgación se hace un uso de estos términos como sinónimos, pero es conveniente establecer ciertos matices entre ellos.
+ 
+La web 2.0 puede entenderse como un con-junto de características que definen una nueva generación de servicios web. No es necesario repetir ahora un listado de metáforas, ejemplos y comparaciones publicada por numerosos autores; baste con recordar que estas características son de tres tipos:
+
+1.? Aplicaciones web; sitios web con un alto grado de interactividad que recrean funciones tradicionalmente reservadas al ordenador personal.
+
+2.? Remezcla de datos; buscando la producción de sitios web con materiales fácilmente enlazables, reutilizables y remezclables. La prioridad ya no es conseguir visitas, sino que los contenidos del sitio web sean utilizados.
+
+
+
+3.? Tercero, y más destacado, participación del usuario en sitios que permiten consultar contenidos, pero también crearlos y establecer relaciones entre los distintos usuarios. Es la Web social, la Web donde las relaciones entre los individuos constituyen el elemento clave de la valoración de los contenidos. Una fotografía nos interesa porque la publica un amigo o alguien con quien tenemos una relación. Un artículo llama nuestra atención porque un compañero de trabajo lo recomienda en su muro de Facebook o a través de Twitter. Entender y participar de esas relaciones sociales se convierte en algo vital para las organizaciones y para los profesionales de la información.
+
+El término “redes sociales” se suele utilizar para hacer referencia a dos cosas distintas. Por una parte están los sitios web con funcionalidades sociales, es decir sitios que tienen un objetivo concreto (compartir fotografías, vídeos, mensajes de texto, etc.) y donde los usuarios pueden registrarse y establecer una red de contactos para así acceder más fácilmente a los elementos que les son más relevantes. En este grupo estarían ejemplos como Twitter, YouTube y Flickr.
+
+La segunda acepción de “redes sociales” se refiere a lo que la bibliografía especializada denomina “sitios de redes sociales” y es entendido como los servicios web donde los usuarios crean un perfil público o semipúblico y establecen relaciones con otros usuarios de ese servicio a través de sus perfiles. El objetivo principal del sitio web es estar en contacto con otros usuarios y ese contacto se puede mantener con distintas funciones como compartir fotografías, mensajes, etc. Los ejemplos más destacados de sitios de redes sociales en España son Facebook y Tuenti.
+
+Natalia Arroyo-Vázquez publicó un estudio de los tipos de estas redes y su papel en bibliotecas (Arroyo, 2008). La lista de ejemplos desde la publicación de ese trabajo ha crecido de forma espectacular.
+
+
+Cloud computing
+
+En el entorno más informático, a lo largo de 2009 ha cobrado especial relevancia el término cloud computing, que suele traducirse en castellano por “computación en la nube”. Bajo este concepto se agrupan todos los servicios que almacenan los datos en servidores externos, normalmente con aplicaciones web asociadas. Esto supone una importante tendencia en la gestión de los recursos digitales en las organizaciones (documentos, fotografías, etc.) y puede considerarse uno de los elementos de la web 2.0 descritos en el apartado anterior: las aplicaciones web. El ejemplo más destacado es EyeOS, un sistema operativo pensado para la Web donde todo está en internet, disminuyendo así nuestra dependencia del ordenador personal.
+
+En el entorno bibliotecario también se ofrecen servicios de este tipo. Buena parte de las colecciones de revistas electrónicas están en la nube y muchas bibliotecas universitarias ofrecen el servicio RefWorks, un sitio web donde, previa suscripción, los usuarios pueden registrarse y crear sus bibliografías. Estas referencias son almacenadas en un servidor de la propia empresa y no es controlado ni por la biblioteca ni por el usuario. Eso es cloud computing, las referencias bibliográficas están en la nube.
+
+
+Sitios de redes sociales en España
+
+Seguramente, el día a día haya permitido a muchos de nosotros observar la importancia que las redes sociales están tomando en nuestro entorno, pero unas cifras ayudan a cuantificar la magnitud de esa importancia.
+
+
+Según el informe La Sociedad de la información en España en 2008, el número de internautas españoles que declaraban usar internet para conectarse a una red social era del 9,5% (La Sociedad..., 2008). En el informe de 2009 se afirma que el número de internautas españoles que utilizan las redes sociales es del 28,7% (La Sociedad..., 2009). Otra cifra relevante del uso de estos sitios es que el envío de mensajes dentro de estas redes creció de 2008 a 2009 un 508% entre los jóvenes de 16 a 24 años y un 361,3% entre los de 25 a 34 años (La Sociedad..., 2009). Otro infor me (Universal McCann, 2009) cifra en un 59% los internautas españoles que han creado un perfil en alguna red social, lo que supondría unos 4,9 millones de personas.
+Pero no sólo ha habido cambios con respecto a la cantidad de usuarios, también con respecto a la importancia de los distintos sitios de redes sociales que operan en España. Si hasta ahora la primacía de Tuenti era indiscutible, Facebook tiene una presencia cada vez mayor.
+
+El ranking de Alexa para España situaba en 2008 a Tuenti en el octavo lugar de los sitios más consultados y a Facebook en el puesto 12. Hoy, Tuenti sigue ocupando el octavo lugar, pero Facebook ocupa el tercero. En septiembre de 2008 Google trends mostraba una considerable ventaja de Tuenti sobre cualquier otra red social; hoy la ventaja de Tuenti sobre Facebook a nivel estatal es muy reducida. El uso de otros sitios como MySpace o Hi5 ya es casi residual comparado con los
+dos primeros. 
+
+
+Web 2.0 en las instituciones
+
+Uno de los cambios importantes en lo referente a la web 2.0 en 2009 es la apuesta que muchas instituciones han hecho por estas herramientas. Una de las limitaciones que tenían las bibliotecas a la hora de implantar este tipo de servicios era la falta de una cultura institucional y una desconfianza hacia estas nuevas formas de comunicación. Algunos profesionales veían con recelo que una administración pública, o cualquier  otra  organización,  utilizara  aplicaciones gratuitas, pero propiedad de otras empresas, para ofrecer sus servicios y difundir sus contenidos. Si bien la propiedad intelectual de los datos producidos es una cuestión que no debe obviarse, son muchas las organizaciones de todo tipo que ya utilizan esos sistemas como un elemento clave de su comunicación en red.
+
+“Uno de los servicios bibliotecarios sobre el que más impacto tiene la web social es la tradicional formación de usuarios”
+
+Algunas muestras de este cambio son, por ejemplo, el hecho de que muchas universidades ya han facilitado a sus comunidades espacios para crear blogs, wikis, compartir vídeos,  etc. A modo de ejemplo se pueden citar los blogs de la Universitat Autònoma de Barcelona1  o el PoliTube2, de la Universidad Politécnica de Valencia.  Pero  los  ser vicios de este tipo son cada vez más normales y dentro de poco nos parecerá  tan habitual como ofrecer cuentas de correo o espacio web El listado de ejemplos en las administraciones públicas también  sería amplio, pero destaca el Ministerio de Sanidad y Política Social, con presencia en SlideShare3 para compartir sus pre sentaciones, el blog del Plan de calidad del sistema nacional de salud4 o la utilización de Facebook, Tuenti, Youtube y Twitter en su campaña de prevención de la gripe A5. También se puede citar la iniciativa del blog de la Generalitat de Catalunya6 o la integración de un directorio basado en Google maps y una nube de etiquetas en la misma página principal del web de la Generalitat Valenciana7.
+
+Pero la apuesta más destacada de una administración pública hacia las redes sociales ha sido realizada por el Gobierno Vasco con su portal Irekia: Gobierno abierto8, en el cual se integran todas las iniciativas de esa administración en el entorno de las redes sociales: blogs, cuentas de Twitter, páginas de Facebook, integración de mensajes de los usuarios en la página principal, numerosas invitaciones a realizar comentarios, etc.
+
+Lo destacable de todas estas iniciativas es que no se trata de proyectos individuales o aislados de determinados departamentos o servicios, sino que son fruto de decisiones al más alto nivel y que reflejan un cambio en la cultura de la comunicación web por parte de las organizaciones.
+
+
+Bibliotecas y redes sociales
+
+En el ámbito de las bibliotecas, la web 2.0 sigue siendo una fuerte tendencia. Artículos sobre estas materias han aparecido en casi todas las revistas profesionales y son temas que se han tratado en la mayoría de congresos y jornadas celebradas durante 2009, tanto en el entorno español como internacional, aportando diversas perspectivas.
+
+Las empresas de servicios informáticos para unidades de información ofrecen cada vez más productos abiertos a la participación de los usuarios e incluyen en sus opacs funcionalidades sociales. Destacan las versiones de Innovative Interfaces para Millennium y de Baratz para la nueva versión de AbsysNet.
+
+Además de los productos especializados, muchas bibliotecas optan por utilizar las aplicaciones generalistas que la web social ofrece. Existen muchos ejemplos, pero por ser uno de los recientes puede citarse el de la Biblioteca Virtual del Sistema Sanitario Público de Andalucía9 que ha optado por estas herramientas (Facebook, Twitter y SlideShare, entre otras) para difundir sus mate-riales y servicios entre su personal y sus usuarios.
+
+La lista de sitios y servicios web que pue-den utilizar las bibliotecas y otras unidades de información sería bastante amplia. Al existir ya
+ trabajos que tratan el tema de forma exhaustiva(Margaix, 2008) parece más razonable centrar este texto en los aspectos más relevantes y en las novedades más recientes.
+
+Las bibliotecas utilizan la web 2.0 con dos objetivos fundamentales: informar y conversar. Por una parte las redes sociales permiten a las bibliotecas insertarse en el ecosistema de información y de relaciones del usuario. El paradigma de los medios sociales implica que lo importante no es que el usuario visite la web de la biblioteca: se trata de que acceda a la información que ésta le proporciona, que puede ser bibliografía, novedades, actividades, etc.
+
+Para conseguir este objetivo parece que Twitter y los sitios de redes sociales son más eficaces. No obstante la eficacia de una herramienta u otra se basa en el uso que hagan de ella los usuarios de la biblioteca, no de la tecnología.
+
+La conversación con los usuarios sigue siendo uno de los objetivos más buscados y más difíciles de conseguir. Para que se produzca una conversación en cualquier ámbito se ha de utilizar un tono que invite a la participación y se deben tratar temas de interés para los interlocutores. Esos principios deben guiar también la actuación de bibliotecas y unidades de información cuando quieran conversar. Hasta ahora los blogs han sido la forma más relevante para ello, pero los sitios de redes sociales están cobrando protagonismo como lugares de conversación. Es posible que esto se deba a que estos sitios representan un entorno que el usuario percibe como propio (la red social que utiliza habitualmente) y donde ya está acostumbrado a participar.
+
+Si se observan los perfiles de algunas bibliotecas en los sitios de redes sociales más populares, parece que en Tuenti se produce una mayor participación por parte de los usuarios que en Facebook. Hay que analizar la calidad de esos mensajes, responderlos, hacer llegar la información a quien correspondan, etc.
+
+Recientemente ha aparecido la figura del community manager, un profesional encargado de mantener, hacer crecer y moderar la comunidad surgida alrededor de una marca o causa. En el caso de las bibliotecas, normalmente, bastará con asumir estas funciones por parte del personal con experiencia en esas utilidades.
+
+La presencia en sitios de redes sociales requiere cierto análisis de las posibilidades tecnológicas que ofrece la plataforma, la presencia de usuarios reales de la biblioteca y de los objetivos que se pretenden alcanzar. En Tuenti la forma de presencia por la que habitualmente optan las bibliotecas es la de crearse un perfil, como una persona más. Pero esta posibilidad no está con-templada en las normas de uso del servicio, ya que no se permite la utilización de perfiles por parte de organizaciones. Por ello se están empezando a dar los primeros inconvenientes: limitaciones en el número de amigos de un perfil, etc.
+
+
+
+Las bibliotecas que optan por Facebook suelen organizar su presencia en base a una página, que es la forma prevista por este sitio web para las organizaciones. Las páginas de Facebook tienen una apariencia y un funcionamiento similar a los perfiles, pero en lugar de crear un vínculo de “amigos” recíproco, los usuarios se hacen “fans” de la página. Con las páginas de Facebook la privacidad de los usuarios queda protegida pues los administradores de la página no tienen acceso al contenido de  los  perfiles  de  los fans.
+
+Por este motivo algunos usuarios prefieren ser fans de la página y no amigos de un per fil institucional del que desconocen a quien dan acceso a su perfil. Uno de los servicios bibliotecarios sobre  el que más impacto tiene la web social es la tradicional formación de usuarios, término superado actualmente por la formación en competencias informacionales o  alfabetización  informacional. El entorno digital difumina los límites entre el consumo, enriquecimiento y producción de la información, en gran medida como consecuencia del uso de las plataformas 2.0. Las competencias digitales van más allá de las informacionales y se centran en las necesidades de gestión de la información en un mundo digital e incluyen tanto aspectos técnicos como el uso de estas aplicaciones: blogs, wikis, compartir y editar audiovisuales, etc., así como la gestión de la identidad y reputación digital No se trata de evitar que los usuarios utilicen los sitios de redes socia les, se trata de que los  utilicen conscientes de los  riesgos  que  entrañan y que conozcan las opciones de privacidad disponibles para que la información y foto grafías que publican las compartan sólo con aquellos usuarios con los que desean hacerlo. Esto afecta a la reputación digital y puede tener consecuencias en el  futuro,  por  ejemplo, en la búsqueda de empleo (González, 2009).
+
+
+Tendencias de futuro
+
+Es difícil plantear tendencias de futuro tratándose de un fenómeno tan reciente, pero sí que se puede dejar constancia de algunos elementos novedosos y que pueden determinar los movimientos de las redes sociales durante el próximo año.
+
+En primer lugar destaca la apertura de este tipo de servicios en el sentido de ofrecer más posibilidades de construir aplicaciones, de integrar contenidos dentro de la Red y de reutilizar los contenidos fuera de ella.
+
+En segundo lugar, las políticas de privacidad y los términos legales son cada vez más importantes para los usuarios por lo que estos sitios se van adaptando a sus demandas.
+
+En tercer lugar, varios sitios web están toman-do posiciones para convertirse en elementos clave de la identidad digital: un perfil único que permita la identificación en múltiples sitios web. Los ejemplos más conocidos son OpenID, Google friend connect y Facebook connect, pero recientemente ha surgido un nuevo competidor: Twitter.
+
+La cuarta tendencia y quizás la más importante es el acceso a redes sociales desde dispositivos móviles, pero eso ya ha sido tratado en otro capítulo de este Anuario.
+
+
+Conclusiones
+
+Las cifras citadas anteriormente hacen que 2009 se considere el año de la explosión de las redes sociales en España. Han crecido de forma considerable en número de usuarios, pero también en el uso que se hace de ellas. El número de mensajes enviados a través de redes sociales se ha multiplicado en el último año, pero se sigue observando también una diferencia considerable entre distintos grupos de edad.
+
+Destacan dos sitios de redes sociales en el panorama español: Facebook y Tuenti. Este último va perdiendo cada vez más ventaja en el contexto estatal frente a su competidor más directo.
+
+Las bibliotecas siguen apostando por las herramientas 2.0, que son cada vez más aceptadas por las organizaciones. Se está gestando una cultura positiva hacia estas tecnologías en las organizaciones públicas y privadas, lo cual hará más fácil su implantación por parte de las bibliotecas que deseen hacerlo.
+
+Durante el próximo año es previsible:
+
+–? un fuerte crecimiento de los servicios de redes sociales para dispositivos móviles, y
+
+–? movimiento de las plataformas sociales para convertirse en estándares de la identificación digital de los usuarios.
+
+Pero todo eso dependerá, como siempre, de lo que hagan nuestros usuarios, o mejor dicho: de lo que hagan sus amigos, pues son ellos los que realmente configuran la red social de nuestros usuarios y a las bibliotecas sólo les queda adaptarse a esta realidad.

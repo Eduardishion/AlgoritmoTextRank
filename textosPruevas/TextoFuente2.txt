@@ -1,0 +1,120 @@
+¿Que es Inteligencia Artificial?
+
+1. INTRODUCCIÓN
+
+La inteligencia artificial es un área de la investigación donde se desarrollan algoritmos para controlar cosas, y es así que en 1956 se establecen las bases para funcionar como un campo independiente de la informática.
+
+Son muchos los estudios y aplicaciones que se han logrado con el desarrollo de esta ciencia , entre las cuales tenemos redes neuronales aplicadas al control de la calidad donde la red evalúa si determinado producto cumple o no con las especificaciones demandadas, control del proceso químico en el grado de acidez, algoritmos genéticos aplicados al problema cuadrático de asignación de facilidades que trata de la asignación de N trabajos en M máquinas, los autómatas programables que se usan para la optimización de sistemas de producción, en fin, todavía queda mucho por descubrir con respecto a las aplicaciones de esta ciencia.
+
+1.1 Historia de la Inteligencia Artificial
+
+Se podría situar los orígenes de la inteligencia artificial con la definición de la neurona formal dada por McCulloch & Pitts [1943], como un dispositivo binario con varias entradas y salidas. Ya en el año de 1956 se volvió a tocar el tema de inteligencia artificial (IA) en el instituto de tecnología de Massachussets por John McCarthy donde se celebró la conferencia de Dartmouth en Hanover (Estados Unidos). En este certamen McCarthy, Marvin Minsky, Nathaniel Rochester y Claude E. Shannon establecieron las bases de la inteligencia artificial como un campo independiente dentro de la informática. Previamente, en 1950, Alan M. Turing había publicado un artículo en la revista Mind, titulado “Computing Machinery and Intelligence” (“Ordenador e inteligencia”), en el que reflexionaba sobre el concepto de inteligencia artificial y establecía lo que luego se conocería como el test de Turing, una prueba que permite determinar si un ordenador o computadora se comporta conforme a lo que se entiende como artificialmente inteligente o no.
+
+La inteligencia artificial en los años sesenta, como tal no tuvo muchos éxitos ya que requería demasiada inversión para ese tiempo y la mayoría de tecnologías eran propias de grandes centros de investigación. En los años 70 a 80 se lograron algunos avances significativos en una de sus ramas llamada Sistemas Expertos, con la introducción de PROLOG LISP. Básicamente lo que pretende la inteligencia artificial es crear una maquina secuencial programada que repita indefinidamente un conjunto de instrucciones generadas por un ser humano.
+
+En la actualidad mucho se sigue investigando en los grandes laboratorios tecnológicos educativos y privados; sin dejar de lado los notables avances en sistemas de visión por computadora (aplicados por ejemplo, para la clasificación de artículos revueltos -tornillería o piezas marcadas por códigos de colores, por citar un caso-), control robótico autónomo (Sony, con sus robots capaces de moverse en forma casi humana y reaccionar a presiones tal como lo hace una persona al caminar), aplicaciones de lógica difusa (aplicación del tracking automático en nuestras video caseteras, por citar una aplicación), etc. Sin embargo, la Inteligencia Artificial sigue en su gran mayoría acotado por su dominio tecnológico, y poco ha podido salir al mercado del consumidor final o a la industria.
+
+2.- MARCO TEORIO
+
+2.1. Definiciones de Inteligencia Artificial
+Con respecto a las definiciones actuales de inteligencia artificial se encuentran autores como Rich & Knight [1994], Stuart [1996], quienes definen en forma general la IA como la capacidad que tienen las máquinas para realizar tareas que en el momento son realizadas por seres humanos; otros autores como Nebendah [1988], Delgado [1998], arrojan definiciones más completas y las definen cómo el campo de estudio que se enfoca en la explicación y emulación de la conducta inteligente en función de procesos computacionales basadas en la experiencia y el conocimiento continuo del ambiente.
+
+Hay más autores como Marr [1977], Mompin [1987], Rolston [1992], que en sus definiciones involucran los términos de soluciones a problemas muy complejos.
+
+A criterio de los autores las definiciones de Delgado y Nebendan son muy completas, pero sin el apoyo del juicio formado, emocionalidad del ser humano pueden perder peso dichas soluciones, por eso, hay que lograr un ambiente sinérgico entre ambas partes para mayor efectividad de soluciones.
+
+3. DESARROLLO
+
+3.1. Tendencias de los Sistemas de Inteligencia Artificial
+
+Actualmente según Delgado [1998], Stuart [1996], existen tres paradigmas en cuánto al desarrollo de la IA.
+
+Redes Neuronales.
+
+Algoritmos genéticos.
+
+Sistemas de Lógica difusa.
+
+Pero se han venido destacando otros paradigmas como lo son los agentes de decisión inteligente y autómatas programables, con respecto a estos últimos se suelen emplear en gran medida en procesos industriales de acuerdo a necesidades a satisfacer como, espacio reducido, procesos de producción periódicamente cambiantes, procesos secuenciales, maquinaria de procesos variables, etc.
+
+A juicio de los autores se determina que todos estos desarrollos acortan bastante el proceso de decisiones y optimizan las mismas, pero ahí que tener mucho cuidado ya que hay que analizar los diferentes impactos ya sean ambientales, sociales, políticos y económicos.
+
+3.1.1 Redes neuronales
+
+A grandes rasgos, se recordará que el cerebro humano se compone de decenas de billones de neuronas interconectadas entre sí formando circuitos o redes que desarrollan funciones específicas.
+
+Una neurona típica recoge señales procedentes de otras neuronas a través de una pléyada de delicadas estructuras llamadas dendritas. La neurona emite impulsos de actividad eléctrica a lo largo de una fina y delgada capa denominada axón, que se escinde en millares de ramificaciones.
+
+Las extremidades de estas ramificaciones llegan hasta las dendritas de otras neuronas y establecen conexión llamada sinapsis, que transforma el impulso eléctrico en un mensaje neuroquímico mediante liberación de unas sustancias llamadas neurotransmisores que excitan o inhiben sobre la neurona, de esta manera la información se transmite de neuronas a otras y va siendo procesada a través de las conexiones sinápticas y el aprendizaje varía de acuerdo a la efectividad de la sinapsis.
+
+Un psicólogo D Hebb [1949], introdujo dos ideas fundamentales que han influido de manera decisiva en el campo de las redes neuronales. La hipótesis de Hebb, basadas en investigaciones psicofisiológicas, presentan de manera intuitiva el modo en que las neuronas memorizan información y se plasman sintéticamente en la famosa regla de aprendizaje de Hebb ( también conocida como regla de producto). Esta regla indica que las conexiones entre dos neuronas se refuerza si ambas son activadas. Muchos de los algoritmos actuales proceden de los conceptos de este psicólogo.
+
+Widrow [1959], publica una teoría sobre la adaptación neuronal y unos modelos inspirados en esta teoría, el Adaline (Adaptative Linear Neuron) y el Madaline (Múltiple Adaline). Estos modelos fueron usados en numerosas aplicaciones y permitieron usar, por primera vez, una red neuronal en un problema importante del mundo real: filtros adaptativos que eliminan ecos en las línea telefónicas.
+
+Hopfield [1980], elabora un modelo de red consistente en unidades de proceso interconectadas que alcanzan mínimos energéticos, aplicando los principios de estabilidad desarrollados por Grossberg. El modelo resultó muy ilustrativo sobre los mecanismos de almacenamiento y recuperación de la memoria. Su entusiasmo y claridad de presentación dieron un nuevo impulso al campo y provocó el incremento de las investigaciones.
+
+3.1.1.1 Analogía de redes neuronales biológicas y artificiales
+
+Según Herrera Fernández: Las neuronas se modelan mediante unidades de proceso, caracterizadas por una función de actividades que convierte la entrada total recibida de otras unidades en un valor de salida, el cual hace la función de tasa de disparo de la neurona.
+
+Las conexiones sinápticas se simulan mediante conexiones ponderadas, la fuerza o peso de la conexión cumple el papel de la efectividad de la sinapsis. Las conexiones determinan si es posible que una unidad influya sobre otra.
+Una unidad de proceso recibe varias entradas procedentes de las salidas de otras unidades de proceso de entrada total de una unidad de proceso y se suele calcular como la suma de todas las entradas ponderadas, es decir, multiplicadas por el peso de la conexión. El efecto inhibitorio o excitatorio de la sinapsis se logra usando pesos negativos o positivos respectivamente
+
+Las redes neuronales deben tener como estructura varias capas las cuales son: primera capa como buffer de entrada, almacenando la información bruta suministrada en la red ó realizando un sencillo preproceso de la misma, la llamamos capa de entrada; otra capa actúa como interfaz o buffer de salida que almacena la respuesta de la red para que pueda ser leída, la llamamos capa de salida; y las capas intermedias, principales encargadas de extraer, procesar y memorizar la información, las denominan capas ocultas.
+
+3.1.2 Sistemas de lógica difusa
+
+A concepto de Delgado [1998] es la segunda herramienta que permite emular el razonamiento humano. Los seres humanos pensamos y razonamos por medio de palabras y en grados entre dos estados por ejemplo blanco y negro ó frío y caliente, etc. Estos sistemas de lógica difusa son una mejora a los sistemas experto tradicionales, en el sentido de que permiten utilizar lenguaje humano como nosotros razonamos.
+
+Ya hablando de sistemas expertos tradicionales, estos intentan reproducir el razonamiento humano de forma simbólica. Es un tipo de programa de aplicación informática que adopta decisiones o resuelve problemas de un determinado campo, como los sistemas de producción, las finanzas o la medicina, utilizando los conocimientos y las reglas analíticas definidas por los expertos en dicho campo. Los expertos solucionan los problemas utilizando una combinación de conocimientos basados en hechos y en su capacidad de razonamiento. En los sistemas expertos, estos dos elementos básicos están contenidos en dos componentes separados, aunque relacionados: una base de conocimientos y una máquina de deducción, o de inferencia. La base de conocimientos proporciona hechos objetivos y reglas sobre el tema, mientras que la máquina de deducción proporciona la capacidad de razonamiento que permite al sistema experto extraer conclusiones.
+
+Los sistemas expertos facilitan también herramientas adicionales en forma de interfaces de usuario y los mecanismos de explicación. Las interfaces de usuario, al igual que en cualquier otra aplicación, permiten al usuario formular consultas, proporcionar información e interactuar de otras formas con el sistema. Los mecanismos de explicación, la parte más fascinante de los sistemas expertos, permiten a los sistemas explicar o justificar sus conclusiones, y también posibilitan a los programadores verificar el funcionamiento de los propios sistemas. Los sistemas expertos comenzaron a aparecer en la década de 1960. Sus campos de aplicación son la química, la geología, la medicina, la banca e inversiones y los seguros.
+
+3.1.3 Algoritmos genéticos:
+
+Según Delgado [1998] son una técnica inspirada en aspectos biológicos, el proceso de la evolución del que Charles Darwin hace referencia se puede aplicar para optimizar dispositivos de control o robots o cualquier otro tipo de aspectos que sean susceptibles de ser optimizados como líneas de producción.
+
+En general es aceptado que cualquier algoritmo genético para resolver un problema, debe tener cinco componentes básicos como se vera a continuación:
+
+Se necesita una codificación o representación del problema, que resulte adecuada al mismo.
+
+Una manera de crear una población inicial de soluciones.
+Una función de ajuste ó adaptación al problema, también llamada función de evaluación, la cual asigna un número real a cada posible solución codificada.
+
+Durante la ejecución del algoritmo, los padres – dos individuos pertenecientes a la población inicial, que son soluciones factibles del problema- deben ser seleccionados para la reproducción; a continuación dichos padres seleccionados se cruzarán generando dos hijos, nuevas soluciones al problema, sobre cada uno de los cuales actuará un operador de mutación de acuerdo con una cierta probabilidad. El resultado de la combinación de las anteriores funciones será un conjunto de individuos (posibles soluciones al problema), los cuales en la evolución del Algoritmo Genético formarán parte de la siguiente población.
+
+Valores para los parámetros: tamaño de la población, probabilidad de aplicación de los operadores genéticos.
+
+APLICACIONES DE LA INTELIGENCIA ARTIFICIAL Y LAS TÉCNICAS QUE USAN
+
+Dentro del enfoque de la ingeniería de la Inteligencia Artificial, se clasifican las técnicas que pueden ser usadas como herramientas para solucionar problemas en las siguientes categorías:
+
+Técnicas básicas, así llamadas por encontrarse a la base de diversas aplicaciones de IA. Entre otras se encuentran Búsqueda Heurística de Soluciones, Representación del Conocimiento, Deducción Automática, Programación Simbólica (LISP) y Redes Neuronales. Estas técnicas son las bases de las aplicaciones. En su mayoría, no necesita conocerla el usuario final, sino los profesionales que se dedican a su aplicación y la generación de aplicaciones comerciales.
+
+Tecnologías, o combinaciones de varias técnicas básicas, orientadas a resolver familias de problemas. Las tecnologías son más especializadas que las técnicas básicas y están más cerca de las aplicaciones finales. Se pueden mencionar a la Robótica y Visión, Lenguaje Natural, Sistemas Expertos Clases o tipos de aplicaciones: Diagnóstico, Predicción (sistemas de autocontrol de reactores atómicos), Secuenciamiento de  operaciones ("Scheduling"), Diseño, Interpretación de datos. Todas ellas son familias de problemas tipo. Por ejemplo, el diagnóstico se refiere a encontrar las causas de fallas, ya sea que se trate de fallas en una línea de producción o de enfermedades en una persona.
+
+Campos de aplicación: Ingeniería, Medicina, Sistemas de Manufactura, Administración, Apoyo a la Toma de Decisiones Gerenciales, etc. Todas caen dentro de las áreas de los sistemas computacionales, pero que se consideran como clientes de la Inteligencia Artificial.
+
+4.1. Aplicación de la Inteligencia Artificial en los Sistemas Productivos
+
+La incorporación de agentes de decisión inteligente, redes neuronales, sistemas expertos, algoritmos genéticos y autómatas programables para optimización de sistemas de producción es una tendencia activa en el ambiente industrial de países con alto desarrollo tecnológico y con una gran inversión en investigación y desarrollo. Dichos componentes de la Inteligencia Artificial tienen como función principal controlar de manera independiente, y en coordinación con otros agentes, componentes industriales tales como celdas de manufactura o ensamblaje, y operaciones de mantenimiento, entre otras.
+
+Existe una tendencia creciente a la implementación de sistemas de manufactura/ensamblaje más autónomos e inteligentes, debido a las exigencias del mercado por obtener productos con niveles muy altos de calidad; lo cual con operaciones manuales se hace complicada y hace que los países subdesarrollados como el nuestro no alcance niveles competitivos a nivel mundial. Al diseñar un sistema de producción integrado por computadora se debe dar importancia a la supervisión, planificación, secuenciación cooperación y ejecución de las tareas de operación en centros de trabajo, agregado al control de los niveles de inventario y características de calidad y confiabilidad del sistema. Los factores mencionados determinan la estructura del sistema y su coordinación representa una de las funciones más importantes en el manejo y control de la producción.
+
+Muy frecuentemente, la razón para construir un modelo de simulación es para encontrar respuestas a interrogantes tales como ¿Cuáles son los parámetros óptimos para maximizar o minimizar cierta función objetivo? En los últimos años se han producido grandes avances en el campo de la optimización de sistemas de producción. Sin embargo, el progreso en el desarrollo de herramientas de análisis para resultados de modelos de simulación ha sido muy lento. Existe una gran cantidad de técnicas tradicionales de optimización que sólo individuos con gran conocimiento estadístico y de conceptos de simulación han logrado aportes significativos en el área.
+
+Debido al auge de los algoritmos de búsqueda meta-heurísticos, se ha abierto un nuevo campo en el área de optimización con simulación. Nuevos paquetes de software, tales como OptQuest (Optimal Technologies), SIMRUNNER (Promodel Corporation) y Evolver (Palisade Software), han salido al mercado brindando soluciones amigables de optimización de sistemas que no requieren control interno sobre el modelo construido, sino sobre los resultados que dicho modelo arroja bajo diferentes condiciones. Además, nuevas técnicas de inteligencia artificial aplicadas a problemas de optimización estocástica, han demostrado su eficiencia y capacidad de cómputo y aproximación.
+El Aprendizaje Reforzado (Reinforcement Learning) es un conjunto de técnicas diseñadas para dar solución a problemas cuya base son los procesos de decisión markovianos.
+
+Los procesos markovianos son procesos estocásticos de decisión que se basan en el concepto de que la acción a tomar en un estado determinado, en un instante determinado, depende sólo del estado en que se encuentre el sistema al momento de tomar la decisión.
+
+Una de las áreas que puede tener mayor incidencia directa en los procesos productivos de la industria nivel mundial, es el diseño de sistemas de soporte para la toma de decisiones basados en la optimización de los parámetros de operación del sistema. Para tal efecto, el uso de técnicas inteligentes paramétricas y no paramétricas para el análisis de datos es de gran interés.
+
+Sin embargo, a juicio de los autores en la mayoría de las arquitecturas propuestas hasta el momento para manufactura integrada por computadora, carecen de un factor de integración fundamental. La comunicación entre los diversos niveles jerárquicos de una planta de producción es muy poca, ya que cada departamento se limita a realizar su función sin buscar una integración de toda la planta productiva a excepciones de empresas como ABB con su software Baan, etc.
+
+5. CONCLUSIONES
+
+En la universidad Nacional sede Manizales en el programa de ingeniería industrial se debería trabajar más en las ciencias informáticas, con el fin, de profundizar en áreas de la inteligencia artificial aplicadas a la ingeniería industrial.
+
+Con el desarrollo de este trabajo se han obtenido resultados satisfactorios a nivel de investigación teórica, ya que con la documentación obtenida se conocieron avances en las ciencias informáticas que en algunos casos eran desconocidos para los autores.
+Los grandes avances de I.A aplicada a sistemas de producción han hecho que día a día la industria en su constante búsqueda por mejorar su competitividad logren dicho objetivo, pero en muchos de los casos desplazar gran cantidad de mano de obra que llevan consigo un deterioro social que se ve reflejado en los indicadores globales de desempleo y niveles de pobreza.

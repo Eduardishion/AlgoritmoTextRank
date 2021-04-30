@@ -1,0 +1,3 @@
+-RutaGeneral C:/Users/Caren/Desktop/utilierias_archivos/Desarrollos/2.-PythonProjects/TextRank/
+-RutaArchivo C:/Users/Caren/Desktop/utilierias_archivos/Desarrollos/2.-PythonProjects/TextRank/textos/TextoFuenteX2.txt
+
