@@ -2,7 +2,7 @@
 Este es el algoritmo Text Rank para generacion automatica de resumenes
 la principlal libreria que se uso fue gemsim en python 2.7
 
-Para entender mejor lo que es area de procesamiento del lenguaje natural y sus apliaciones pa poder realizar esta integracion me he basado en distintas bibiografias las cuales adentran completamente en  analisis de texto, preprocesamiento, extraccion de caracteristicas y como es la lenguaje se estructura lenguaje a un nivel 
+Para entender mejor lo que es area de procesamiento del lenguaje natural y sus apliaciones para poder realizar esta integracion me he basado en distintas bibiografias las cuales adentran completamente en  analisis de texto, preprocesamiento, extraccion de caracteristicas y como es la lenguaje se estructura lenguaje en sus distintos niveles.
 
 - Natural Language Processing Recipes Unlocking Text Data with Machine Learning and Deep Learning using Python Akshay Kulkarni
 Adarsha Shivananda
